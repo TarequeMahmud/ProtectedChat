@@ -1,2 +1,2 @@
-#A simple chat application 
-##Uses NodeJs, ExpressJs, Ejs and validateJs
+#  ProtectedChat
+## A Chat Application That Uses Encryption Functionalities.
